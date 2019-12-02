@@ -1,6 +1,6 @@
 package abcjdi;
 
-public class Test1 {
+public class Test2 {
 
 	private void Test() {}
 }
